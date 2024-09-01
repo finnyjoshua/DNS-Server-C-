@@ -60,10 +60,9 @@ Enter the domain name (e.g., github.com, google.com). The server will return the
 - **Error Handling Improvements:** Add more robust error handling for network failures and invalid queries.
 - **Configuration File Support:** Allow the server to load DNS records from a configuration file instead of hardcoding them.
 
-## Contributions
 
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
+
 
 ## Author
 
-[Abhishek Singh Kushwaha](https://ask-03-portfolio.vercel.app/)
+[Finny Joshua]
